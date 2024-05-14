@@ -1,5 +1,3 @@
-# Welcome to my page 🎉
-
 <h1 align="center">Hey! Nice to see you. 🤩 I'm Maria Cidoncha</h1>
 <h3 align="center">A passionate fullstack developer from Tarragona</h3>
 
